@@ -1,3 +1,5 @@
+//This is a basic Random Number Generator Program!
+
 import java.util.Random; //Generate random numbers with this library
 
 public class RNG {
